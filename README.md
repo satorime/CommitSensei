@@ -28,6 +28,19 @@ If the developer has a portfolio site deployed on Netlify, Vercel, Render, Railw
 
 ---
 
+## Tech Stack
+
+| Layer | Technology |
+|-------|-----------|
+| Framework | [React](https://react.dev/) 18 |
+| Build Tool | [Vite](https://vitejs.dev/) 6 |
+| Styling | [Tailwind CSS](https://tailwindcss.com/) 3 |
+| Icons | [Lucide React](https://lucide.dev/) |
+| AI | [Anthropic SDK](https://github.com/anthropics/anthropic-sdk-python) (`claude-sonnet`) |
+| Data | [GitHub REST API](https://docs.github.com/en/rest) |
+
+---
+
 ## Setup
 
 ```bash
