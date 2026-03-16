@@ -130,9 +130,9 @@ export default function App() {
                 <span className="font-black uppercase tracking-tighter text-white">CommitSensei</span>
               </div>
               <div className="flex items-center gap-4 text-sm">
-                <span className="font-medium text-white/35">GitHub REST API</span>
+                <span className="font-medium text-white/35">© 2026 Brix Bitayo</span>
                 <span className="text-white/20">·</span>
-                <span className="font-medium text-white/35">Bauhaus Design</span>
+                <span className="font-medium text-white/35">All rights reserved</span>
               </div>
             </div>
           </footer>
